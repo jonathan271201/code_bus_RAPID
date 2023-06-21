@@ -1,0 +1,20 @@
+Message stats for scenario scenario-TJ-EstimateKnapsackBusTJRouter-MISSED_DEADLINES
+sim_time: 7200.0000
+created: 76
+started: 4439
+relayed: 4417
+aborted: 22
+dropped: 0
+removed: 38
+delivered: 34
+delivery_prob: 0.4474
+response_prob: 0.0000
+overhead_ratio: 128.9118
+latency_avg: 1551.0118
+latency_med: 1691.2000
+hopcount_avg: 6.0000
+hopcount_med: 6
+buffertime_avg: 330.2184
+buffertime_med: 195.5000
+rtt_avg: NaN
+rtt_med: NaN

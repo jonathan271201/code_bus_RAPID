@@ -1,0 +1,8 @@
+Contact	Latencies
+2000	NaN
+500	NaN
+2500	994.3882
+1000	NaN
+3000	1270.7714
+1500	NaN
+

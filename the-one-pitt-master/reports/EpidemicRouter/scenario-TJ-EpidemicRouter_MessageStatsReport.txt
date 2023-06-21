@@ -1,0 +1,20 @@
+Message stats for scenario scenario-TJ-EpidemicRouter
+sim_time: 64800.1000
+created: 4104
+started: 404576
+relayed: 377040
+aborted: 27530
+dropped: 378336
+removed: 0
+delivered: 1804
+delivery_prob: 0.4396
+response_prob: 0.0000
+overhead_ratio: 208.0022
+latency_avg: 733.4134
+latency_med: 746.7000
+hopcount_avg: 3.9939
+hopcount_med: 4
+buffertime_avg: 370.4180
+buffertime_med: 301.1000
+rtt_avg: NaN
+rtt_med: NaN

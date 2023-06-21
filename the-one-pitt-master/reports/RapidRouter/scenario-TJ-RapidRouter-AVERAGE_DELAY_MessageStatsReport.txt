@@ -1,0 +1,20 @@
+Message stats for scenario scenario-TJ-RapidRouter-AVERAGE_DELAY
+sim_time: 64800.1000
+created: 1368
+started: 143589
+relayed: 135251
+aborted: 8338
+dropped: 135869
+removed: 0
+delivered: 702
+delivery_prob: 0.5132
+response_prob: 0.0000
+overhead_ratio: 191.6652
+latency_avg: 729.3969
+latency_med: 729.6000
+hopcount_avg: 3.8205
+hopcount_med: 4
+buffertime_avg: 382.9870
+buffertime_med: 320.8000
+rtt_avg: NaN
+rtt_med: NaN

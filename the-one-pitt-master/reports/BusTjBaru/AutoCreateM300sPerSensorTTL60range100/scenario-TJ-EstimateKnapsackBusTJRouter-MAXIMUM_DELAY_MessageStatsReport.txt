@@ -1,0 +1,20 @@
+Message stats for scenario scenario-TJ-EstimateKnapsackBusTJRouter-MAXIMUM_DELAY
+sim_time: 64800.1000
+created: 684
+started: 19422
+relayed: 19178
+aborted: 242
+dropped: 18813
+removed: 635
+delivered: 376
+delivery_prob: 0.5497
+response_prob: 0.0000
+overhead_ratio: 50.0053
+latency_avg: 665.2404
+latency_med: 685.8000
+hopcount_avg: 4.8989
+hopcount_med: 5
+buffertime_avg: 535.4255
+buffertime_med: 535.8000
+rtt_avg: NaN
+rtt_med: NaN
